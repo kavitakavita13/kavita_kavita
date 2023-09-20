@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Myself</title>
+  </head>
+  <body>
+    <header>
+      my site banner, or logo will go here
+      <nav>Dashboard, contact us,about us will be go here </nav>
+    </header>
+    <main>
+      This is the main content of the page
+      <article>This is the article on the page</article>
+      <aside>Some additional but not relevant information</aside>
+      <section>Some more information about our website</section>
+      <p>
+        My daily lifestyle has a huge impact on my health.The reason for this insight is because my family and friends always mention that I am skinny and I need to eat more.I realize from previous chapters about health and fitness, nutrition, and weight management, just to name a few, have brought to my attention that it is important to record what you put in your body
+    </p>
+    </main>
+    <footer>Your page copyrights will go here</footer>
+  </body>
+</html>
